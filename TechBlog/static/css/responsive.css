@@ -1,0 +1,21 @@
+@media only screen and (max-width: 1186px){
+    .nav-list{
+        flex-direction: column;
+        justify-content: center;
+    
+    }
+    .navbar{
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .burger{
+        display: block;
+    }
+    .h-nav{
+        height: 62px;
+    }
+    .v-class{
+        opacity: 0;
+    }
+    }
